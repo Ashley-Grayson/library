@@ -1,0 +1,10 @@
+package book
+
+class Book {
+
+string title
+string author
+string isbn
+string dateBorrowed
+string returnDate
+string student
